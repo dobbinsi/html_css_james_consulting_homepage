@@ -1,1 +1,1 @@
-# html_css_james_consulting_homepage
+Sample website created from wireframe using HTML and CSS
